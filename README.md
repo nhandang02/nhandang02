@@ -3,8 +3,8 @@ My name is Dang Thanh Nhan. I’m currently studying Software Engineering at Ton
 
 ## 🌐Socials
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nhandang02/)
-[![Facebook](https://i.imgur.com/JKCNRag.png) Facebook](https://facebook.com/https://www.facebook.com/profile.php?id=100086652585752)
-[![Instagram](https://i.imgur.com/mxWTxgN.jpg) Instagram](https://instagram.com/https://www.instagram.com/nhandawng.15/) 
+[![Facebook](https://i.imgur.com/o5A5vBX.png?1) Facebook](https://facebook.com/https://www.facebook.com/profile.php?id=100086652585752)
+[![Instagram](https://i.imgur.com/o5A5vBX.png?1) Instagram](https://instagram.com/https://www.instagram.com/nhandawng.15/) 
 
 
 # 💻Tech Stack
