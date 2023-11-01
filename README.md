@@ -5,9 +5,6 @@ My name is Dang Thanh Nhan. I’m currently studying Software Engineering at Ton
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/nhandang02/)
 
 # 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-
 ![Nhan's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nhandang02&show_icons=true&theme=tokyonight&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhandang02&layout=compact&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 ---
